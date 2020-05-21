@@ -158,9 +158,9 @@ int main()
     b1.showBookData();
     b1.storeBook();
 
-    /*b2.showBookData();
-    b2.storeBook();*/
-    /*b1.viewAllBooks();
+    b2.showBookData();
+    b2.storeBook();
+    b1.viewAllBooks();
     b1.deleteBook("PHP");
     cout<<"\nAfter deletion\n";
      b1.viewAllBooks();*/
